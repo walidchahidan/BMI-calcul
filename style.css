@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url("./bg.jpg");
+}
+div{
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    width: 50vw;
+    height: 300px;
+    background: linear-gradient(#297cac, #a80c9b);
+    justify-content: center;
+    
+}
+p{
+    color: white;
+}
